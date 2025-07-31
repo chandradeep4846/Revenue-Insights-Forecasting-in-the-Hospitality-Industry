@@ -1,0 +1,21 @@
+# 🏨 Revenue Insights in the Hospitality Industry
+
+This project analyzes hotel booking data to extract key revenue trends, explore customer behavior, and forecast future earnings. It combines data analysis, visualization, and time-series forecasting to deliver actionable insights for decision-makers in the hospitality sector.
+
+## 📌 Project Objective
+
+To derive revenue insights from hotel booking data and use forecasting techniques to predict future trends. The project identifies critical factors influencing hotel revenue, such as hotel type, seasonality, cancellations, room types, and country of origin.
+
+---
+
+## 🧰 Tools & Technologies
+
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
+- **Forecasting**: Facebook Prophet
+- **Jupyter Notebook**
+- **Dataset**: [Hotel Booking Demand Dataset (Kaggle)](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
+
+---
+
+## 📁 Folder Structure
+
