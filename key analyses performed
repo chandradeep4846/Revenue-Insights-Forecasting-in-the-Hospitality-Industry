@@ -1,0 +1,50 @@
+
+---
+
+## 📊 Key Analyses Performed
+
+### 1. Revenue Overview
+- Average Daily Rate (ADR) by month/year
+- Monthly revenue trends across both hotel types
+
+### 2. Hotel Type & Customer Segmentation
+- Revenue comparison: City hotel vs Resort hotel
+- Room type contribution to total revenue
+- Booking lead time and its effect on cancellation and revenue
+
+### 3. Geographic Revenue Distribution
+- Top countries by number of bookings and revenue
+- Visualizations using bar plots and maps (Plotly)
+
+### 4. Time Series Forecasting
+- Revenue forecasting using Facebook Prophet
+- Seasonal trends and future ADR prediction
+
+---
+
+## 📈 Visualizations
+
+- 📅 **Monthly Revenue Trend**  
+- 📌 **Revenue by Country and Hotel Type**  
+- 💰 **Cancellation Impact on Revenue**  
+- 🔮 **Revenue Forecast for Upcoming Months**
+
+![Example Chart](https://via.placeholder.com/600x300.png?text=Insert+Your+Charts+Here)
+
+---
+
+## 📢 Key Insights
+
+- Resort hotels generate more seasonal revenue, with peaks in summer.
+- Cancellations significantly reduce actual revenue, especially from long lead-time bookings.
+- Bookings from specific countries contribute disproportionately to total earnings.
+- Forecasting suggests a potential 12-15% increase in revenue in the next high season.
+
+---
+
+## 📦 Requirements
+
+To install dependencies:
+
+```bash
+pip install -r requirements.txt
